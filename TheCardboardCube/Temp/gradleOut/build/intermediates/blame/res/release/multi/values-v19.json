@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Downloads\\TheCardboardCube\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\Pleonexia\\.android\\build-cache\\606f3d9d5156ce1c4fff1f1c82c50ddf9b4b4486\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 148,
+                        "endColumn": 56,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
+    }
+]
